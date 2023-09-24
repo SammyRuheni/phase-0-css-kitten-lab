@@ -37,3 +37,28 @@ write-your-selector-here {
   top: 217px;
   left: 223px;
 }
+/* Positioning Kittens Absolutely in the Wheelbarrow */
+
+/* Kitten 1 */
+.kitty-1 {
+  position: absolute;
+  top: 50px; 
+  left: 50px; 
+}
+
+/* Kitten 2 */
+.kitty-2 {
+  position: absolute;
+  top: 100px;
+  left: 100px; 
+}
+
+/* Kitten 3 */
+.kitty-3 {
+  position: absolute;
+  top: 150px;
+  left: 150px; 
+}
+
+
+
